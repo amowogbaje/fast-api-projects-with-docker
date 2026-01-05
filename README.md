@@ -2,10 +2,10 @@
 
 This repository contains two related FastAPI projects:
 
-1. **Y: Simple Task CRUD**  
+1. **Simple Task CRUD**  
    Basic CRUD API for managing tasks.
 
-2. **Z: Simple Task CRUD with AI**  
+2. **Simple Task CRUD with AI**  
    Extends the CRUD API with AI-powered suggestions using Ollama (local) or hosted LLMs.
 
 
