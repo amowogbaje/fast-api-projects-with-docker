@@ -35,11 +35,16 @@ A FastAPI project implementing a CRUD API for tasks.
 
 3. Build and start containers:
 
-``` docker compose up --build -d ```
+``` 
+docker compose up --build -d 
+
+```
 
 4. Access API docs:
 
-``` http://localhost:4001/docs ```
+``` 
+http://localhost:4001/docs 
+```
 
 
 ## ENDPOINTS
