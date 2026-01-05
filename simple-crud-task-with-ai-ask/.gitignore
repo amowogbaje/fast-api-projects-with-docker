@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.env
+*.egg-info/
+*.egg
+*.venv/
+venv/
+.env
+
+# FastAPI / Pydantic / IDE
+.idea/
+.vscode/
+*.log
+
+# Docker
+*.dockerignore
+docker-compose.override.yml
+**/Dockerfile.*
+**/docker-compose.override.yml
+*.swp
+*.tmp
+
+# Ollama / AI models
+ollama_data/
+ollama_cache/
+*.ckpt
+*.bin
+
+# SQLAlchemy / DB
+*.db
+*.sqlite
+
+# Node (if using frontend)
+node_modules/
+dist/
+build/
+
+# Misc
+*.DS_Store
+*.pytest_cache/
+*.coverage
+htmlcov/
