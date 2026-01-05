@@ -1,0 +1,21 @@
+# FastAPI Projects Suite
+
+This repository contains two related FastAPI projects:
+
+1. **Y: Simple Task CRUD**  
+   Basic CRUD API for managing tasks.
+
+2. **Z: Simple Task CRUD with AI**  
+   Extends the CRUD API with AI-powered suggestions using Ollama (local) or hosted LLMs.
+
+
+   ---
+
+## How to Get Started
+
+1. Navigate to the folder you want to run:
+
+```bash
+cd simple-crud-task    # for basic CRUD
+# or
+cd simple-crud-task-with-ai-ask     # for AI-enabled version
