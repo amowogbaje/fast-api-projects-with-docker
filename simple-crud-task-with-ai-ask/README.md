@@ -6,7 +6,7 @@ Extends the simple task CRUD API by integrating AI-powered task suggestions.
 
 ## Features
 
-- All features from Y (CRUD API)
+- All features from simple-crud-task
 - AI integration via Ollama (local) or hosted LLMs
 - `/ai/ask` endpoint for generating task suggestions
 - Dockerized backend with AI service container
