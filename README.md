@@ -19,3 +19,7 @@ This repository contains two related FastAPI projects:
 cd simple-crud-task    # for basic CRUD
 # or
 cd simple-crud-task-with-ai-ask     # for AI-enabled version
+
+
+## Rules
+Make sure you do docker compose down if you want to run another project
